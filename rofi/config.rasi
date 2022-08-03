@@ -1,0 +1,12 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Paper";
+}
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+//@theme "/home/avgwst/.config/rofi/themes/launchpad.rasi"
+//@theme "/home/avgwst/.config/rofi/themes/spotlight-dark.rasi"
+@theme "/home/avgwst/.config/rofi/themes/simple-tokyonight.rasi"
